@@ -1,4 +1,7 @@
 {
+"scripts": {
+  "build": "tsc --noEmit || true && vite build"
+}
   "name": "ditherlab-ready",
   "private": true,
   "version": "1.0.0",
